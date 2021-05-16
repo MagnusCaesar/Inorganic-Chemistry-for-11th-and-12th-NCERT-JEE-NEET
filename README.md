@@ -1,0 +1,1 @@
+# Inorganic-Chemistry-for-11th-and-12th-NCERT-JEE-NEET
