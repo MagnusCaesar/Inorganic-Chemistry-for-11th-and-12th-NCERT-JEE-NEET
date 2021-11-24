@@ -2,29 +2,29 @@
 
 I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck: 
 
-<p style="text-align:center"><span style="font-size:24px"><span style="color:#e74c3c"> 
-  <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i> </span></span>
+<p style="text-align:center"><span style="color:#e74c3c"> 
+#  <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i> </span>
 
   
 (if you're okay with rearranging cards, please arrange as you'd like)
   
 # INCLUDES
-1.Biomolecules  
-2.d-block  
-3.p-block  
-4.f-block  
-5.s-block  
-6.Environmental chemistry   
-7.Drugs(Chemistry in everyday life)  
-8.Coordination compounds  
-9.Hydrogen(mostly focused on JEE Archives)    
-10.Ionic reactions  
-11.Metallurgy  
+1. Biomolecules  
+2. d-block  
+3. p-block  
+4. f-block  
+5. s-block  
+6. Environmental chemistry   
+7. Drugs(Chemistry in everyday life)  
+8. Coordination compounds  
+9. Hydrogen(mostly focused on JEE Archives)    
+10. Ionic reactions  
+11. Metallurgy  
  
 
 ## NEVER COMING
 1. Surface chem  
-2.Most of physical chem(there are some good decks for it)
+2. Most of physical chem(there are some good decks for it)
 
 # Description: 
 This is a deck which covers the topics from inorganic chemistry for 11th and 12th grade students who study chemistry through the NCERT books
