@@ -1,5 +1,3 @@
-<b><i>Please READ ME! </i></b>
-
 I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck: 
 
   
@@ -31,9 +29,9 @@ errors such as : factual and conceptual errors, etc
 
 please contact me about it at 
 
-email: 1i8mzwrt7@relay.firefox.com    
+email: <1i8mzwrt7@relay.firefox.com>    
 reddit: u/GroundbreakingYak69    
-Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https://discord.com/invite/kbSXsRTUC2    
+Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : <https://discord.com/invite/kbSXsRTUC2>   
 
 ### UPDATES
 1. (23/April/2021)G13 Added(please re-download[old cards won't be replaced, I've checked it out, so don't need to download the separate G13/14 deck])  
@@ -71,4 +69,4 @@ Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https:
 6. Countdown to exams  
 7. Enhanced main window   
  
-For any queries click on the "contact author link and leave a message(click on the reply button)", try your best not to ask questions here as I will not get any notifications about your messages[Inorganic Chemistry.zip](https://github.com/MagnusCaesar/Inorganic-Chemistry-for-11th-and-12th-NCERT-JEE-NEET/files/7592778/Inorganic.Chemistry.zip)
+[Download the Inorganic Chemistry.zip](https://github.com/MagnusCaesar/Inorganic-Chemistry-for-11th-and-12th-NCERT-JEE-NEET/files/7592778/Inorganic.Chemistry.zip)
