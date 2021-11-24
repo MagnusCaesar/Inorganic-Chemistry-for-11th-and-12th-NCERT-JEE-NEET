@@ -31,18 +31,18 @@ errors such as : factual and conceptual errors, etc
 
 please contact me about it at 
 
-email: 1i8mzwrt7@relay.firefox.com
-reddit: u/GroundbreakingYak69
-Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https://discord.com/invite/kbSXsRTUC2
+email: 1i8mzwrt7@relay.firefox.com    
+reddit: u/GroundbreakingYak69    
+Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https://discord.com/invite/kbSXsRTUC2    
 
 ### UPDATES
-1.(23/April/2021)G13 Added(please re-download[old cards won't be replaced, I've checked it out, so don't need to download the separate G13/14 deck])  
-2.(26/April/2021) Drugs(examples) added  
-3.(27/April/2021)G14 added  
-4.(27/April/2021) 12:00 IST G14 re-added, please download once more for a full set of periodic table related chapters  
-5.(28/April/2021) coordination compounds added(my friend was kind enough to share it with me, so I've added that)  
-6.(29/April/2021) Hydrogen added  
-7.(03/May/2021) Edits and improvements, recommended re-download  
+1. (23/April/2021)G13 Added(please re-download[old cards won't be replaced, I've checked it out, so don't need to download the separate G13/14 deck])  
+2. (26/April/2021) Drugs(examples) added  
+3. (27/April/2021)G14 added  
+4. (27/April/2021) 12:00 IST G14 re-added, please download once more for a full set of periodic table related chapters  
+5. (28/April/2021) coordination compounds added(my friend was kind enough to share it with me, so I've added that)  
+6. (29/April/2021) Hydrogen added  
+7. (03/May/2021) Edits and improvements, recommended re-download  
 8. (05/May/2021) Ionic reactions(+d-block oxo-anions added)  
 9. (16/May/2021)Corrected a mistake relating to the card involving ammonium dichromate decomposition to make N2(Cr2O7 was written instead of Cr2O3)  
 10.(17/May/2021)due to some error, G17 cards were absent in previous versions, please re-download to update   
@@ -50,7 +50,7 @@ Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https:
 12. (20/May/2021) added Amino acids(100% contributed, I've no involvement[except adding extra bits for personal use]) under biomolecules with the help of user @dalinarkholin#2611 [from discord]
 13. (23/May/2021) card updates + P-oxoacid prep08  
 14. (08/June/2021) error corrections, added G17(left out a lot of important things around 150 cards), recommended update(exhaustive of NCERT inorganic)   
-15. (10/June/2021) <b><i>Final</b></i> content update, only corrections and additions from now on  
+15. (10/June/2021) **Final** content update, only corrections and additions from now on  
 
 
 # NOTE! : 
