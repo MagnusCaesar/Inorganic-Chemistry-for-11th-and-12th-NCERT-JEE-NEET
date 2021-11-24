@@ -4,6 +4,7 @@ I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck:
 
 <p style="text-align:center"><span style="font-size:24px"><span style="color:#e74c3c"> 
   <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i>
+    
 </span></span>
 (if you're okay with rearranging cards, please arrange as you'd like)
   
