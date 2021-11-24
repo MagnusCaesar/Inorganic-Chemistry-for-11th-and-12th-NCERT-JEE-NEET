@@ -2,10 +2,7 @@
 
 I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck: 
 
-<p style="text-align:center"><span style="color:#e74c3c"> 
-#  <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i> </span>
 
-  
 (if you're okay with rearranging cards, please arrange as you'd like)
   
 # INCLUDES
@@ -58,7 +55,9 @@ Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https:
 15. (10/June/2021) <b><i>Final</b></i> content update, only corrections and additions from now on  
 
 
-# !!!!NOTE!!!!!: 
+# NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded]
+
+# !!!!NOTE2!!!!!: 
 1. (does NOT INCLUDE qualitative analysis, not planning to do it)  
 2. please install hierarchical tags add-on(if anki version is below 2.1.41)[ https://ankiweb.net/shared/info/594329229 ]  
 3. Amino acid section was contributed by user @dalinarkholin#2611 [from discord], but I've included some of my personal notes along with it, please convert to a normal basic card if it is of inconvenience(just go to fields in the editor for any of the Amino A cards and delete the last section[Reason&stuff])
