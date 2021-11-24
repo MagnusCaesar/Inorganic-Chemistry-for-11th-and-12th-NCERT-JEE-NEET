@@ -2,13 +2,13 @@
 
 I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck: 
 
-<p style="text-align:center">
-  <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i>
+<p style="text-align:center"><span style="font-size:24px"><span style="color:#e74c3c"> 
+  <b><i>NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded] </b></i> </span></span>
 
   
 (if you're okay with rearranging cards, please arrange as you'd like)
   
-INCLUDES
+# INCLUDES
 1.Biomolecules  
 2.d-block  
 3.p-block  
@@ -21,11 +21,12 @@ INCLUDES
 10.Ionic reactions  
 11.Metallurgy  
  
-NEVER COMING
+
+## NEVER COMING
 1. Surface chem  
 2.Most of physical chem(there are some good decks for it)
 
-Description: 
+# Description: 
 This is a deck which covers the topics from inorganic chemistry for 11th and 12th grade students who study chemistry through the NCERT books
 This is mostly for students preparing for the JEE, NEET, etc  entrance examinations conducted in India 
 So if your goal is to study Inorganic Chemistry in general, please look elsewhere as this is for a specific set of people only
@@ -39,7 +40,7 @@ email: 1i8mzwrt7@relay.firefox.com
 reddit: u/GroundbreakingYak69
 Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https://discord.com/invite/kbSXsRTUC2
 
-UPDATES
+### UPDATES
 1.(23/April/2021)G13 Added(please re-download[old cards won't be replaced, I've checked it out, so don't need to download the separate G13/14 deck])  
 2.(26/April/2021) Drugs(examples) added  
 3.(27/April/2021)G14 added  
@@ -57,12 +58,12 @@ UPDATES
 15. (10/June/2021) <b><i>Final</b></i> content update, only corrections and additions from now on  
 
 
-!!!!NOTE!!!!!: 
+# !!!!NOTE!!!!!: 
 1. (does NOT INCLUDE qualitative analysis, not planning to do it)  
 2. please install hierarchical tags add-on(if anki version is below 2.1.41)[ https://ankiweb.net/shared/info/594329229 ]  
 3. Amino acid section was contributed by user @dalinarkholin#2611 [from discord], but I've included some of my personal notes along with it, please convert to a normal basic card if it is of inconvenience(just go to fields in the editor for any of the Amino A cards and delete the last section[Reason&stuff])
 
-Recommended add-ons
+## Recommended add-ons
 1. Load balance scheduler(makes your job easier)  
 2. Pop up dictionary (use anki 2.1.40, along with the heirarchical tags add on)  
 3. Review heatmap  
