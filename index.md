@@ -2,8 +2,6 @@
 
 I'm Caesar, Magnus Caesar, #Caesar, The Great, now about my deck: 
 
-
-(if you're okay with rearranging cards, please arrange as you'd like)
   
 # INCLUDES
 1. Biomolecules  
@@ -55,7 +53,9 @@ Discord: MagnusCaesar#0063 (Anki-JEE/NEET/NCERT based decks server link : https:
 15. (10/June/2021) <b><i>Final</b></i> content update, only corrections and additions from now on  
 
 
-# NOTE! : DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded]
+# NOTE! : 
+***DON'T rearrange/rename decks(i.e. don't change the name of this deck/put it under another), as this might cause future updates to add new decks without old cards[cards previously downloaded]
+(if you're okay with rearranging cards, please arrange as you'd like)***
 
 # !!!!NOTE2!!!!!: 
 1. (does NOT INCLUDE qualitative analysis, not planning to do it)  
